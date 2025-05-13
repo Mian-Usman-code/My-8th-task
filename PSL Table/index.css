@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+html{
+    font-family: sans-serif;
+    padding-top: 100px;
+    padding-left: 100px;
+   
+    
+
+}
+img{
+    width: 20px;
+}
+table,thead,th,tr,td{
+    
+    border-collapse: collapse;
+    background-color: black;
+    color:darkgray;
+    border-bottom: solid gray 1px;
+}
+.t{
+    color: rgb(67, 63, 63);
+}
+
+.r{
+    background-color: red;
+}
+.g{
+    background-color: green;
+}
+
+table{
+    width: 700px;
+    text-align: left;
+}
+.m{
+   
+    font-size: x-large;
+}
